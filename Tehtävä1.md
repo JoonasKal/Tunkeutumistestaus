@@ -1,3 +1,4 @@
 Avasin chromen ja kaksoisklikkasin sivua ja valitsin "Inspect" ja DevTools aukesi. 
 Seuraavaksi name kohdassa klikkasin collect nimistä viestiä, se oli tarkoitettu yhteyden pitoon  requestly.com sivustolle. Sivusto sijaitsee ubuntu serverillä. Se näytti onnistuvan oikein.
 Kokeilin uudestaan ja kirjoitin selaimeen wikipedia ja tiedot päivittyivät. Tämä oli minulle oikeastaan ensimmäinen kerta kun käytin DevToolssia, joten olen aika hukassa. Huomaan, että yhteydenotto wikipedia sivuun kesti 36ms. Sinne latautui myös kaksi kuvaa Wikinews-logo ja Wikipedia-logo. Löytyy myös kaksi javascript tiedostoa: gt ja index. Klikkasin indexiä ja aukesi uusi valikko. Menin Headers kohtaan ja sieltä Response headers ja löysin että index-tiedosta oli muokattu viimeksi 12.2.2024 klo 16.38.
+<img width="1395" alt="Screenshot 2024-03-25 at 10 59 31" src="https://github.com/JoonasKal/Tunkeutumistestaus/assets/104196551/a4b65eb0-1466-4c0f-86a1-07ed5a4ffb72">
